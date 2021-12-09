@@ -6,5 +6,3 @@
 - 💬 Ask me about DSA/React/JS
 - 📫 Connect with me on : zeazzzz4@gmail.com
 
-Technologies
-Reactjs Postman
